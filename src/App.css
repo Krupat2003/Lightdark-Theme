@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main-container{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  flex-direction: column;
+}
+/* body{
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(0,212,255,1) 100%);;
+} */
+.btn{
+  border: 2px solid black !important;
+  width: 200px;
+}
